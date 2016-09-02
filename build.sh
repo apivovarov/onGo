@@ -10,3 +10,5 @@ go test    github.com/apivovarov/ongo/stringutil
 
 go install github.com/apivovarov/tour/moretypes
 go test    github.com/apivovarov/tour/moretypes
+
+go install github.com/apivovarov/ongo/goroutines
